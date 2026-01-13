@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/javascript-coderhouse/proyecto-final.git"
+    "url": "git+https://github.com/matias-ac/curso-coder-javascript.git"
   },
   "author": "Matías Ariel Castro",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/javascript-coderhouse/proyecto-final/issues"
+    "url": "https://github.com/matias-ac/curso-coder-javascript/issues"
   },
-  "homepage": "https://gitlab.com/javascript-coderhouse/proyecto-final#readme",
+  "homepage": "https://github.com/matias-ac/curso-coder-javascript#readme",
   "type": "module"
 }
